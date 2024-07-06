@@ -1,0 +1,7 @@
+#EXTM3U
+#EXTINF:-1,--- LISTA GRATIS achoapps.com
+http://www.achotv.com
+#EXTINF:-1,--- Visita www.achoapps.com ---
+
+#EXTINF:-1 tvg-id="" tvg-logo="http://photocall.tv/images/13max.png" group-title="Entretenimiento", 13 MAX (Argentina)
+https://raw.githubusercontent.com/zeutrek/tv/main/prueba.m3u8
